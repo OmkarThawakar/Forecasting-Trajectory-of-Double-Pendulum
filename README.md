@@ -14,3 +14,4 @@ prediction of X co-ordinate
 
 prediction of Y co-ordinate
 ![alt text](https://raw.githubusercontent.com/OmkarThawakar/Forecasting-Trajectory-of-Double-Pendulum/results/y2.png)
+![Alt text](result/x2.png?raw=true "Title")
