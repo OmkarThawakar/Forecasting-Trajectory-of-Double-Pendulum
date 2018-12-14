@@ -7,4 +7,10 @@ We used the same technique on the forecasting of the projectile trajectory. We u
 # Example of Double Pendulum
 ![](https://upload.wikimedia.org/wikipedia/commons/6/65/Trajektorie_eines_Doppelpendels.gif)
 
-![alt text](https://raw.githubusercontent.com/OmkarThawakar/)
+
+# Result
+prediction of X co-ordinate
+![alt text](https://raw.githubusercontent.com/OmkarThawakar/Forecasting-Trajectory-of-Double-Pendulum/results/x2.png)
+
+prediction of Y co-ordinate
+![alt text](https://raw.githubusercontent.com/OmkarThawakar/Forecasting-Trajectory-of-Double-Pendulum/results/y2.png)
