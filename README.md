@@ -10,9 +10,7 @@ We used the same technique on the forecasting of the projectile trajectory. We u
 
 # Result
 prediction of X co-ordinate
-![alt text](https://raw.githubusercontent.com/OmkarThawakar/Forecasting-Trajectory-of-Double-Pendulum/results/x2.png)
 ![Alt text](results/x2.png?raw=true "Title")
 
 prediction of Y co-ordinate
-![alt text](https://raw.githubusercontent.com/OmkarThawakar/Forecasting-Trajectory-of-Double-Pendulum/results/y2.png)
 ![Alt text](results/y2.png?raw=true "Title")
